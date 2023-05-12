@@ -1,8 +1,8 @@
 {
-  "name": "evilfreelancer/laravel-manticoresearch",
+  "name": "webregul/laravel-manticoresearch",
   "description": "An easy way to use the official ManticoreSearch client in your Laravel applications",
   "type": "library",
-  "homepage": "https://github.com/EvilFreelancer/laravel-manticoresearch",
+  "homepage": "https://github.com/WebRegul/laravel-manticoresearch",
   "require": {
     "php": "^7.2|^8.0",
     "ext-json": "*",
