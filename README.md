@@ -11,8 +11,10 @@
 An easiest way to use the [official ManticoreSearch client](https://github.com/manticoresoftware/manticoresearch-php)
 in your Laravel or Lumen applications.
 
+Fork from evilfreelancer/laravel-manticoresearch with Laravel 10 support
+
 ```sh
-composer require evilfreelancer/laravel-manticoresearch
+composer require webregul/laravel-manticoresearch
 ```
 
 * [Post install](#Post-install)
